@@ -9,10 +9,10 @@ cd Proyecto-AS
 
 2. Instalar Dependencias
 Asegúrate de tener Python y pip instalados. Luego, crea y activa un entorno virtual e instala las dependencias del proyecto:
-python -m venv venv
-source venv/bin/activate (para sistemas basados en Unix)
-venv\Scripts\activate (para Windows)
-pip install -r requirements.txt
+* python -m venv venv
+* source venv/bin/activate (para sistemas basados en Unix)
+* venv\Scripts\activate (para Windows)
+* pip install -r requirements.txt
 
 3. Configurar la Aplicación
 Copiar el archivo de configuración de ejemplo y modificarlo según sea necesario:
