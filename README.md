@@ -4,8 +4,8 @@ Este proyecto es una plataforma de gestión comunitaria que permite a los reside
 
 Configuración del Entorno de Desarrollo
 1. Clonar el Repositorio
-git clone https://github.com/Sp1ike/Proyecto-AS.git
-cd Proyecto-AS
+* git clone https://github.com/Sp1ike/Proyecto-AS.git
+* cd Proyecto-AS
 
 2. Instalar Dependencias
 Asegúrate de tener Python y pip instalados. Luego, crea y activa un entorno virtual e instala las dependencias del proyecto:
@@ -16,10 +16,10 @@ Asegúrate de tener Python y pip instalados. Luego, crea y activa un entorno vir
 
 3. Configurar la Aplicación
 Copiar el archivo de configuración de ejemplo y modificarlo según sea necesario:
-cp config.py.example config.py
+* cp config.py.example config.py
 
 4. Iniciar la Aplicación
-flask run
+* flask run
 
 Uso de la API
 Endpoints Disponibles
